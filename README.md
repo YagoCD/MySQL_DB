@@ -1,2 +1,2 @@
 # MySQL_DB
-Mi primera base de datoss
+Mi primera base de datos
